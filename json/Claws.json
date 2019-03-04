@@ -1,0 +1,102 @@
+[
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw1.png?scale=1\">",
+        "info": "Nailed Fist\nClaws\nPhysical Damage: 4-11\nCritical Strike Chance: 6.2%\nAttacks per Second: 1.6\nWeapon Range: 9\nRequires Level 3, 11 Dex, 11 Int\n+3 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw2.png?scale=1\">",
+        "info": "Sharktooth Claw\nClaws\nPhysical Damage: 7-18\nCritical Strike Chance: 6.5%\nAttacks per Second: 1.4\nWeapon Range: 9\nRequires Level 7, 14 Dex, 20 Int\n+6 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw3.png?scale=1\">",
+        "info": "Awl\nClaws\nPhysical Damage: 7-24\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 12, 25 Dex, 25 Int\n+7 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw4.png?scale=1\">",
+        "info": "Cat's Paw\nClaws\nPhysical Damage: 12-22\nCritical Strike Chance: 6%\nAttacks per Second: 1.6\nWeapon Range: 9\nRequires Level 17, 39 Dex, 27 Int\n+8 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5.png?scale=1\">",
+        "info": "Blinder\nClaws\nPhysical Damage: 12-32\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 22, 41 Dex, 41 Int\n+12 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw6.png?scale=1\">",
+        "info": "Timeworn Claw\nClaws\nPhysical Damage: 16-43\nCritical Strike Chance: 6.5%\nAttacks per Second: 1.3\nWeapon Range: 9\nRequires Level 26, 39 Dex, 56 Int\n+19 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw7.png?scale=1\">",
+        "info": "Sparkling Claw\nClaws\nPhysical Damage: 14-38\nCritical Strike Chance: 6%\nAttacks per Second: 1.6\nWeapon Range: 9\nRequires Level 30, 64 Dex, 44 Int\n+15 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8.png?scale=1\">",
+        "info": "Fright Claw\nClaws\nPhysical Damage: 12-46\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 34, 61 Dex, 61 Int\n+20 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw9.png?scale=1\">",
+        "info": "Double Claw\nClaws\nPhysical Damage: 15-44\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 36, 67 Dex, 67 Int\n+6 Mana gained for each Enemy hit by Attacks\n+15 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw2.png?scale=1\">",
+        "info": "Thresher Claw\nClaws\nPhysical Damage: 20-53\nCritical Strike Chance: 6.5%\nAttacks per Second: 1.3\nWeapon Range: 9\nRequires Level 37, 53 Dex, 77 Int\n+25 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw3.png?scale=1\">",
+        "info": "Gouger\nClaws\nPhysical Damage: 15-51\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 40, 70 Dex, 70 Int\n+24 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw4.png?scale=1\">",
+        "info": "Tiger's Paw\nClaws\nPhysical Damage: 23-43\nCritical Strike Chance: 6%\nAttacks per Second: 1.6\nWeapon Range: 9\nRequires Level 43, 88 Dex, 61 Int\n1.6% of Physical Attack Damage Leeched as Life"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5.png?scale=1\">",
+        "info": "Gut Ripper\nClaws\nPhysical Damage: 20-53\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 46, 80 Dex, 80 Int\n+44 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw6.png?scale=1\">",
+        "info": "Prehistoric Claw\nClaws\nPhysical Damage: 26-68\nCritical Strike Chance: 6.5%\nAttacks per Second: 1.3\nWeapon Range: 9\nRequires Level 49, 69 Dex, 100 Int\n2% of Physical Attack Damage Leeched as Life"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw7.png?scale=1\">",
+        "info": "Noble Claw\nClaws\nPhysical Damage: 21-56\nCritical Strike Chance: 6%\nAttacks per Second: 1.6\nWeapon Range: 9\nRequires Level 52, 105 Dex, 73 Int\n+40 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8.png?scale=1\">",
+        "info": "Eagle Claw\nClaws\nPhysical Damage: 17-69\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 55, 94 Dex, 94 Int\n2% of Physical Attack Damage Leeched as Life"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw9.png?scale=1\">",
+        "info": "Twin Claw\nClaws\nPhysical Damage: 21-64\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 57, 103 Dex, 103 Int\n+10 Mana gained for each Enemy hit by Attacks\n+28 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw2.png?scale=1\">",
+        "info": "Great White Claw\nClaws\nPhysical Damage: 30-78\nCritical Strike Chance: 6.5%\nAttacks per Second: 1.3\nWeapon Range: 9\nRequires Level 58, 81 Dex, 117 Int\n+46 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw3.png?scale=1\">",
+        "info": "Throat Stabber\nClaws\nPhysical Damage: 21-73\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 60, 113 Dex, 113 Int\n+40 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw4.png?scale=1\">",
+        "info": "Hellion's Paw\nClaws\nPhysical Damage: 29-55\nCritical Strike Chance: 6%\nAttacks per Second: 1.6\nWeapon Range: 9\nRequires Level 62, 131 Dex, 95 Int\n1.6% of Physical Attack Damage Leeched as Life"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw5.png?scale=1\">",
+        "info": "Eye Gouger\nClaws\nPhysical Damage: 26-68\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 64, 113 Dex, 113 Int\n+50 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw6.png?scale=1\">",
+        "info": "Vaal Claw\nClaws\nPhysical Damage: 29-76\nCritical Strike Chance: 6.5%\nAttacks per Second: 1.3\nWeapon Range: 9\nRequires Level 66, 95 Dex, 131 Int\n2% of Physical Attack Damage Leeched as Life"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw7.png?scale=1\">",
+        "info": "Imperial Claw\nClaws\nPhysical Damage: 25-65\nCritical Strike Chance: 6%\nAttacks per Second: 1.6\nWeapon Range: 9\nRequires Level 68, 131 Dex, 95 Int\n+46 Life gained for each Enemy hit by Attacks"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw8.png?scale=1\">",
+        "info": "Terror Claw\nClaws\nPhysical Damage: 18-71\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 70, 113 Dex, 113 Int\n2% of Physical Attack Damage Leeched as Life"
+    },
+    {
+        "icon": "<img src=\"https://web.poecdn.com/image/Art/2DItems/Weapons/OneHandWeapons/Claws/Claw9.png?scale=1\">",
+        "info": "Gemini Claw\nClaws\nPhysical Damage: 23-68\nCritical Strike Chance: 6.3%\nAttacks per Second: 1.5\nWeapon Range: 9\nRequires Level 72, 121 Dex, 121 Int\n+14 Mana gained for each Enemy hit by Attacks\n+38 Life gained for each Enemy hit by Attacks"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Squire's",
+        "ilvl": 1,
+        "affix": "(15–19)% increased Physical Damage\n+(3–7) to Accuracy Rating "
+    },
+    {
+        "Name": "Journeyman's",
+        "ilvl": 11,
+        "affix": "(20–24)% increased Physical Damage\n+(8–30) to Accuracy Rating "
+    },
+    {
+        "Name": "Reaver's",
+        "ilvl": 23,
+        "affix": "(25–34)% increased Physical Damage\n+(31–50) to Accuracy Rating "
+    },
+    {
+        "Name": "Mercenary's",
+        "ilvl": 35,
+        "affix": "(35–44)% increased Physical Damage\n+(51–64) to Accuracy Rating "
+    },
+    {
+        "Name": "Champion's",
+        "ilvl": 46,
+        "affix": "(45–54)% increased Physical Damage\n+(65–82) to Accuracy Rating "
+    },
+    {
+        "Name": "Conqueror's",
+        "ilvl": 60,
+        "affix": "(55–64)% increased Physical Damage\n+(83–99) to Accuracy Rating "
+    },
+    {
+        "Name": "Emperor's",
+        "ilvl": 73,
+        "affix": "(65–74)% increased Physical Damage\n+(100–134) to Accuracy Rating "
+    },
+    {
+        "Name": "Dictator's",
+        "ilvl": 83,
+        "affix": "(75–79)% increased Physical Damage\n+(135–169) to Accuracy Rating "
+    }
+]

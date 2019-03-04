@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Beryl",
+        "ilvl": 1,
+        "affix": "+(15–19) to maximum Mana "
+    },
+    {
+        "Name": "Cobalt",
+        "ilvl": 11,
+        "affix": "+(20–24) to maximum Mana "
+    },
+    {
+        "Name": "Azure",
+        "ilvl": 17,
+        "affix": "+(25–29) to maximum Mana "
+    },    
+    {
+        "Name": "Sapphire",
+        "ilvl": 23,
+        "affix": "+(30–34) to maximum Mana "
+    },
+    {
+        "Name": "Cerulean",
+        "ilvl": 29,
+        "affix": "+(35–39) to maximum Mana "
+    },
+    {
+        "Name": "Aqua",
+        "ilvl": 35,
+        "affix": "+(40–44) to maximum Mana "
+    },    
+    {
+        "Name": "Opalescent",
+        "ilvl": 42,
+        "affix": "+(45–49) to maximum Mana "
+    },
+    {
+        "Name": "Gentian",
+        "ilvl": 51,
+        "affix": "+(50–54) to maximum Mana "
+    },
+    {
+        "Name": "Chalybeous",
+        "ilvl": 60,
+        "affix": "+(55–59) to maximum Mana "
+    },    
+    {
+        "Name": "Mazarine",
+        "ilvl": 69,
+        "affix": "+(60–64) to maximum Mana "
+    },
+    {
+        "Name": "Blue",
+        "ilvl": 75,
+        "affix": "+(65–68) to maximum Mana "
+    },
+    {
+        "Name": "Zaffre",
+        "ilvl": 81,
+        "affix": "+(69–73) to maximum Mana "
+    }
+]

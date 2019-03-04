@@ -1,0 +1,52 @@
+[    
+    {
+        "Name": "Glinting",
+        "ilvl": 2,
+        "affix": "Adds 1 to (2–3) Physical Damage "
+    },    
+    {
+        "Name": "Burnished",
+        "ilvl": 13,
+        "affix": "Adds (4–5) to (8–9) Physical Damage "
+    },  
+    
+    {
+        "Name": "Polished",
+        "ilvl": 21,
+        "affix": "Adds (6–8) to (13–15) Physical Damage "
+    }, 
+    
+    {
+        "Name": "Honed",
+        "ilvl": 29,
+        "affix": "Adds (7–11) to (16–19) Physical Damage "
+    },    
+    {
+        "Name": "Gleaming",
+        "ilvl": 36,
+        "affix": "Adds (9–13) to (20–24) Physical Damage "
+    },    
+    {
+        "Name": "Annealed",
+        "ilvl": 46,
+        "affix": "Adds (13–17) to (26–30) Physical Damage "
+    },  
+    
+    {
+        "Name": "Razor-sharp",
+        "ilvl": 54,
+        "affix": "Adds (14–19) to (29–35) Physical Damage "
+    },    
+    {
+        "Name": "Tempered",
+        "ilvl": 65,
+        "affix": "Adds (17–24) to (36–41) Physical Damage "
+    },    
+    
+    {
+        "Name": "Flaring",
+        "ilvl": 77,
+        "affix": "Adds (20–27) to (41–49) Physical Damage "
+    }
+    
+]

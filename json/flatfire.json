@@ -1,0 +1,49 @@
+[
+    {
+        "Name": "Heated",
+        "ilvl": 1,
+        "affix": "Adds (1–2) to (3–4) Fire Damage "
+    },
+    {
+        "Name": "Smouldering",
+        "ilvl": 11,
+        "affix": "Adds (8–10) to (15–18) Fire Damage "
+    },    
+    {
+        "Name": "Smoking",
+        "ilvl": 18,
+        "affix": "Adds (12–16) to (24–28) Fire Damage "
+    },    
+    {
+        "Name": "Burning",
+        "ilvl": 26,
+        "affix": "Adds (17–22) to (33–39) Fire Damage "
+    },   
+    {
+        "Name": "Flaming",
+        "ilvl": 33,
+        "affix": "Adds (21–28) to (42–49) Fire Damage "
+    },
+    
+    {
+        "Name": "Scorching",
+        "ilvl": 42,
+        "affix": "Adds (26–35) to (53–61) Fire Damage "
+    },    
+    {
+        "Name": "Incinerating",
+        "ilvl": 51,
+        "affix": "Adds (32–42) to (63–74) Fire Damage "
+    },
+    {
+        "Name": "Blasting",
+        "ilvl": 62,
+        "affix": "Adds (38–51) to (77–89) Fire Damage "
+    },   
+    
+    {
+        "Name": "Cremating",
+        "ilvl": 74,
+        "affix": "Adds (45–61) to (91–106) Fire Damage "
+    }    
+]

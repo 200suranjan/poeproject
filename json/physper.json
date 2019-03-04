@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Heavy",
+        "ilvl": 1,
+        "affix": "(40–49)% increased Physical Damage "
+    },    
+    {
+        "Name": "Serrated",
+        "ilvl": 11,
+        "affix": "(50–64)% increased Physical Damage "
+    },    
+    {
+        "Name": "Wicked",
+        "ilvl": 23,
+        "affix": "(65–84)% increased Physical Damage "
+    },    
+    {
+        "Name": "Vicious",
+        "ilvl": 35,
+        "affix": "(85–109)% increased Physical Damage "
+    },    
+    {
+        "Name": "Bloodthirsty",
+        "ilvl": 46,
+        "affix": "(110–134)% increased Physical Damage "
+    },
+    {
+        "Name": "Cruel",
+        "ilvl": 60,
+        "affix": "(135–154)% increased Physical Damage "
+    },    
+    {
+        "Name": "Tyrannical",
+        "ilvl": 73,
+        "affix": "(155–169)% increased Physical Damage "
+    },
+    {
+        "Name": "Merciless",
+        "ilvl": 83,
+        "affix": "(170–179)% increased Physical Damage "
+    }
+]
